@@ -8,20 +8,10 @@ import { work } from "@cv";
   <ul>
     {
       work.map(({ name, startDate, endDate, position, summary }) => {
-        const startYear = new Date(startDate).toLocaleDateString("es-ES", {
-          day: "2-digit",
-          month: "2-digit",
-          year: "numeric",
-        });
-        const endYear =
-          endDate !== null
-            ? new Date(endDate).toLocaleDateString("es-ES", {
-                day: "2-digit",
-                month: "2-digit",
-                year: "numeric",
-              })
-            : "Actual";
-        const years = `${startYear} - ${endYear}`;
+        const startYear = new Date(startDate).getFullYear();
+        // const endYear =
+        //   endDate !== null ? new Date(endDate).toLocaleDateString() : "Actual";
+        const years = `${startYear}`;
         return (
           <li>
             <article>
