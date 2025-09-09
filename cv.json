@@ -1,0 +1,226 @@
+{
+  "basics": {
+    "name": "John Erick Cordoba Gordillo",
+    "label": "Frontend Developer trainee con más de 6 meses de experiencia",
+    "image": "/cv_picture.webp",
+    "email": "johncordobagor@outlook.com",
+    "phone": "+57 3115302289",
+    "url": "https://midu.dev",
+    "summary": "Como apasionado desarrollador web, poseo una visión creativa y habilidades técnicas sólidas. Mi meta es diseñar experiencias digitales excepcionales que integren funcionalidad y diseño. Disfruto adquiriendo conocimientos y afrontando nuevos retos en el ámbito del desarrollo web.",
+    "location": {
+      "address": "carrera 123 130c-95",
+      "postalCode": "111141",
+      "city": "Bogota",
+      "countryCode": "COL",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "john cordoba",
+        "url": "https://www.linkedin.com/in/johncordoba2004"
+      },
+      {
+        "network": "Github",
+        "username": "JohnCordoba2004",
+        "url": "https://github.com/JohnCordoba2004"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "OxoHotel",
+      "position": "Auxiliar en OXO HOTEL",
+      "startDate": "2023-06-16",
+      "endDate": "2023-12-14",
+      "summary": " Ofrecí soporte técnico a diversos equipos, teléfonos, sistemas biométricos e impresoras en OXOHOTEL garantizando su funcionamiento eficiente y minimizando posibles interrupciones en las operaciones diarias. Presté asistencia en la configuración y resolución de problemas relacionados con aplicaciones como Opera y Zeus, asegurando la continuidad de las tareas sin contratiempos."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Politectino Internacional",
+      "url": "https://politecnicointernacional.edu.co/",
+      "area": "Tecnologo en desarrollo software y aplicativos moviles",
+      "studyType": "technologist",
+      "startDate": "2021-02-21",
+      "endDate": "2024-10-08"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "intermediate",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "intermediate",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "intermediate",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Basic",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Basic",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "JavaScript",
+        "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Basic",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Basic",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "intermediate",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Vue",
+      "level": "Basic",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Basic"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "mars.codes",
+      "isActive": true,
+      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "highlights": [
+        "Elige tu propia aventura",
+        "En desarrollo"
+      ],
+      "url": "https://mars.codes"
+    },
+    {
+      "name": "AdventJS",
+      "isActive": true,
+      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "highlights": [
+        "+1 millón de visitas",
+        "Multidioma",
+        "JavaScript & TypeScript"
+      ],
+      "url": "https://adventjs.dev"
+    },
+    {
+      "name": "Codember",
+      "isActive": true,
+      "description": "Juego interactivo de programación con retos y secretos",
+      "highlights": [
+        "+2000 usuarios activos",
+        "Retos para cualquier lenguaje"
+      ],
+      "url": "https://codember.dev"
+    },
+    {
+      "name": "codi.link",
+      "isActive": true,
+      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "highlights": [
+        "100k visitas al mes",
+        "Desarrollado por la comunidad"
+      ],
+      "url": "https://codi.link",
+      "github": "https://github.com/midudev/codi.link"
+    },
+    {
+      "name": "Pruebas Técnicas",
+      "isActive": true,
+      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "highlights": [
+        "100% gratuito",
+        "+500 soluciones de la comunidad"
+      ],
+      "url": "https://pruebastecnicas.com",
+      "github": "https://github.com/midudev/pruebas-tecnicas"
+    },
+    {
+      "name": "miduConf",
+      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+      "highlights": [
+        "+15k tickets repartidos",
+        "+50k espectadores en directo"
+      ],
+      "url": "https://miduconf.com"
+    }
+  ]
+}
