@@ -215,21 +215,6 @@
       ],
       "url": "https://american-dad-landing.vercel.app/",
       "github": "https://github.com/JohnCordoba2004/american-dad-landing"
-    },
-    {
-      "name": "Pop IT",
-      "isActive": true,
-      "description": "Landing page simple y moderna para promocionar y vender juguetes Pop It. Incluye un hero con llamada a la acción, sección informativa, carrusel de productos, reglas del juego y un footer con enlaces útiles. El diseño es responsive y utiliza una paleta alegre (naranjas y turquesas).",
-      "highlights": [
-        "Landing page colorida y moderna",
-        "Hero con llamada a la acción",
-        "Carrusel de productos Pop It",
-        "Sección informativa y reglas del juego",
-        "Footer con enlaces útiles",
-        "Diseño responsive y alegre"
-      ],
-      "url": "https://landing-page-pop-it.netlify.app/",
-      "github": "https://github.com/JohnCordoba2004/landing-pop-it"
     }
   ]
 }
