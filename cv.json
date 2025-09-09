@@ -215,6 +215,20 @@
       ],
       "url": "https://american-dad-landing.vercel.app/",
       "github": "https://github.com/JohnCordoba2004/american-dad-landing"
+    },
+    {
+      "name": "faq component",
+      "isActive": true,
+      "description": "Un componente de preguntas frecuentes (FAQ) interactivo y moderno, desarrollado con HTML, CSS y JavaScript. Permite a los usuarios expandir y contraer respuestas de manera intuitiva, mejorando la experiencia de usuario y la organización de la información. Ideal para integrar en sitios web que requieran mostrar información de forma clara y accesible.",
+      "highlights": [
+        "+2000 usuarios activos",
+        "Visualización de datos con Chart.js",
+        "Interfaz minimalista e intuitiva",
+        "100% responsive",
+        "Ideal para practicar JavaScript",
+        "Sin frameworks, solo HTML, CSS y JS"
+      ],
+      "url": "https://faq-components.netlify.app/"
     }
   ]
 }
