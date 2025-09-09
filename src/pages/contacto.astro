@@ -1,0 +1,40 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+---
+
+<BaseLayout title="Contacto - Sensei">
+  <Fragment slot="header">
+    <Header />
+  </Fragment>
+
+  <h1>Contacto</h1>
+  <p>Si quieres trabajar conmigo o tienes alguna pregunta, escríbeme:</p>
+  <ul>
+    <li>
+      Email: <a href="mailto:johncordobagor@outlook.com"
+        >johncordobagor@outlook.com</a
+      >
+    </li>
+    <li>
+      LinkedIn:
+      <a
+        href="https://www.linkedin.com/in/john-c%C3%B3rdoba-082b7223a/"
+        target="_blank"
+      >
+        https://www.linkedin.com/in/john-c%C3%B3rdoba-082b7223a/
+      </a>
+    </li>
+    <li>
+      GitHub:
+      <a href="https://github.com/JohnCordoba2004" target="_blank">
+        https://github.com/JohnCordoba2004
+      </a>
+    </li>
+  </ul>
+
+  <Fragment slot="footer">
+    <Footer />
+  </Fragment>
+</BaseLayout>
