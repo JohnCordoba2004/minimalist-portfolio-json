@@ -221,14 +221,28 @@
       "isActive": true,
       "description": "Un componente de preguntas frecuentes (FAQ) interactivo y moderno, desarrollado con HTML, CSS y JavaScript. Permite a los usuarios expandir y contraer respuestas de manera intuitiva, mejorando la experiencia de usuario y la organización de la información. Ideal para integrar en sitios web que requieran mostrar información de forma clara y accesible.",
       "highlights": [
-        "+2000 usuarios activos",
-        "Visualización de datos con Chart.js",
-        "Interfaz minimalista e intuitiva",
+        "Interfaz interactiva y moderna",
+        "Expandir y contraer respuestas fácilmente",
+        "Mejora la experiencia de usuario",
+        "Organización clara de la información",
         "100% responsive",
-        "Ideal para practicar JavaScript",
-        "Sin frameworks, solo HTML, CSS y JS"
+        "Ideal para integrar en cualquier sitio web"
       ],
       "url": "https://faq-components.netlify.app/"
+    },
+    {
+      "name": "menu hamburguesa",
+      "isActive": true,
+      "description": "Un menú hamburguesa moderno e interactivo desarrollado con HTML, CSS y JavaScript. Permite mostrar y ocultar la navegación de manera fluida en dispositivos móviles y de escritorio, mejorando la experiencia de usuario y la accesibilidad. Ideal para integrar en cualquier sitio web que requiera una navegación responsive y atractiva.",
+      "highlights": [
+        "Menú hamburguesa moderno e interactivo",
+        "Transiciones suaves al mostrar/ocultar la navegación",
+        "100% responsive para móviles y escritorio",
+        "Mejora la experiencia de usuario y accesibilidad",
+        "Fácil integración en cualquier sitio web",
+        "Desarrollado solo con HTML, CSS y JavaScript"
+      ],
+      "url": "https://menu-hamburguesa-jc.netlify.app/"
     }
   ]
 }
