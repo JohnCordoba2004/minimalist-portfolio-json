@@ -161,66 +161,75 @@
   ],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "landing-page-pawsensei",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Landing page hero referente a una veterinaria con animaciones suaves hechas con gsap , es responsive para varias longitudes.",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "Animaciones suaves con GSAP",
+        "Diseño responsive",
+        "Hero atractivo para veterinaria",
+        "Optimizado para dispositivos móviles",
+        "En desarrollo activo"
       ],
-      "url": "https://mars.codes"
+      "url": "https://landing-page-pawsensei.netlify.app/"
     },
     {
-      "name": "AdventJS",
+      "name": "CardPrice",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Un componente moderno e interactivo de tarjetas de precios construido con HTML, CSS y JavaScript. Incluye hermosas animaciones, alternancia de modo oscuro y diseño responsivo para planes de suscripción.t",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "Animaciones modernas",
+        "Modo oscuro",
+        "Diseño responsive",
+        "Planes de suscripción",
+        "JavaScript & TypeScript",
+        "Multidioma"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://card-prices-crunchy.netlify.app/"
     },
     {
-      "name": "Codember",
+      "name": "mini dashboard",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Un dashboard minimalista e interactivo construido con HTML + CSS + JavaScript y Chart.js para visualizar datos en un gráfico de barras. Pensado para aprender paso a paso, sin frameworks complicados.",
       "highlights": [
         "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "Visualización de datos con Chart.js",
+        "Interfaz minimalista e intuitiva",
+        "100% responsive",
+        "Ideal para practicar JavaScript",
+        "Sin frameworks, solo HTML, CSS y JS"
       ],
-      "url": "https://codember.dev"
+      "url": "https://mini-dashboard-one-phi.vercel.app/"
     },
     {
-      "name": "codi.link",
+      "name": "landing page american dad",
+      "isActive": false,
+      "description": "Una aplicación web completa que rinde homenaje a la serie 'American Dad' con funcionalidades avanzadas de frontend y backend.",
+      "highlights": [
+        "Inspirada en la serie American Dad",
+        "Frontend moderno y responsivo",
+        "Backend funcional para gestión de datos",
+        "Integración de API para personajes",
+        "Animaciones y UI atractiva",
+        "Proyecto colaborativo open source"
+      ],
+      "url": "https://american-dad-landing.vercel.app/",
+      "github": "https://github.com/JohnCordoba2004/american-dad-landing"
+    },
+    {
+      "name": "Pop IT",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "description": "Landing page simple y moderna para promocionar y vender juguetes Pop It. Incluye un hero con llamada a la acción, sección informativa, carrusel de productos, reglas del juego y un footer con enlaces útiles. El diseño es responsive y utiliza una paleta alegre (naranjas y turquesas).",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "Landing page colorida y moderna",
+        "Hero con llamada a la acción",
+        "Carrusel de productos Pop It",
+        "Sección informativa y reglas del juego",
+        "Footer con enlaces útiles",
+        "Diseño responsive y alegre"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "url": "https://landing-page-pop-it.netlify.app/",
+      "github": "https://github.com/JohnCordoba2004/landing-pop-it"
     }
   ]
 }
