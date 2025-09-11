@@ -192,7 +192,6 @@
       "isActive": true,
       "description": "Un dashboard minimalista e interactivo construido con HTML + CSS + JavaScript y Chart.js para visualizar datos en un gráfico de barras. Pensado para aprender paso a paso, sin frameworks complicados.",
       "highlights": [
-        "+2000 usuarios activos",
         "Visualización de datos con Chart.js",
         "Interfaz minimalista e intuitiva",
         "100% responsive",
