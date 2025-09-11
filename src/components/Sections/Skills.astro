@@ -7,12 +7,10 @@ import { skills } from "@cv";
 <Section title="Skills">
   <ul>
     {
-      skills.map(({ name, level }) => {
+      skills.map(({ name }) => {
         return (
           <li>
-            <span>
-              {name} - {level}
-            </span>
+            <span>{name}</span>
           </li>
         );
       })

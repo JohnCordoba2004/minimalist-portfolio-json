@@ -7,7 +7,7 @@ import { work } from "@cv";
 <Section title="Experiencia Laboral">
   <ul>
     {
-      work.map(({ name, startDate, endDate, position, summary }) => {
+      work.map(({ name, startDate, position, summary }) => {
         const startYear = new Date(startDate).getFullYear();
         // const endYear =
         //   endDate !== null ? new Date(endDate).toLocaleDateString() : "Actual";
