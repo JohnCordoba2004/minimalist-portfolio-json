@@ -10,7 +10,7 @@
     "location": {
       "address": "carrera 123 130c-95",
       "postalCode": "111141",
-      "city": "Bogota",
+      "city": "Bogotá",
       "countryCode": "COL",
       "region": "Colombia"
     },
@@ -38,9 +38,9 @@
   ],
   "education": [
     {
-      "institution": "Politectino Internacional",
+      "institution": "Politecnico Internacional",
       "url": "https://politecnicointernacional.edu.co/",
-      "area": "Tecnologo en desarrollo software y aplicativos moviles",
+      "area": "Tecnólogo en desarrollo de software y aplicaciones móviles",
       "studyType": "technologist",
       "startDate": "2021-02-21",
       "endDate": "2024-10-08"
@@ -163,7 +163,7 @@
     {
       "name": "landing-page-pawsensei",
       "isActive": true,
-      "description": "Landing page hero referente a una veterinaria con animaciones suaves hechas con gsap , es responsive para varias longitudes.",
+      "description": "Landing page hero referente a una veterinaria con animaciones suaves hechas con GSAP, es responsive para varios dispositivos.",
       "highlights": [
         "Animaciones suaves con GSAP",
         "Diseño responsive",
@@ -176,7 +176,7 @@
     {
       "name": "CardPrice",
       "isActive": true,
-      "description": "Un componente moderno e interactivo de tarjetas de precios construido con HTML, CSS y JavaScript. Incluye hermosas animaciones, alternancia de modo oscuro y diseño responsivo para planes de suscripción.t",
+      "description": "Un componente moderno e interactivo de tarjetas de precios construido con HTML, CSS y JavaScript. Incluye hermosas animaciones, alternancia de modo oscuro y diseño responsivo para planes de suscripción.",
       "highlights": [
         "Animaciones modernas",
         "Modo oscuro",
