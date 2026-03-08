@@ -8,7 +8,7 @@ import LinkedIn from "@/icons/LinkedIn.astro";
 
 import WorldMap from "@/icons/WorldMap.astro";
 
-const { name, label, image, location, profiles, phone, email } = basics;
+const { name, label, location, profiles, phone, email } = basics;
 const { city, region } = location;
 
 const SOCIAL_ICONS: Record<string, any> = {
@@ -77,9 +77,9 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ");
         }
       </footer>
     </div>
-    <figure>
+    <!-- <figure>
       <img src={image} alt={name} />
-    </figure>
+    </figure> -->
   </div>
 </Section>
 
